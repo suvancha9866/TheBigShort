@@ -12,3 +12,15 @@ We took factors like the IOD and the NII of each bank as predictors for a loan d
 
 
 Either the factors were negatively or positively correlated with each factor so we took the strongest negative or positive correlations and then ran a linear regression on the factors as predictors and the loan default being the outcome.
+
+There are some important factors to look at one of them is that the 
+FFF - The overnight rates bank charge with each other to keep their reserves. B
+BPS- Bassis points 1 basis point is 0.01%
+NII - Net interest income, the income banks earn from their interest after direct expenses
+Loan Default - We took the amount where the loans have not been paid for more than 90 days.
+
+History
+The Federal Reserve is the central bank of the United States and is responsible for maintaing the cost of money. It as a dual mandate keeping unemployment and inflation stable. The Federal Reserve was created after the banking crisis in 1907 where banks collapsed because of no authority to keep trust of people. The Federal Reserve works seperately from the other governments and is reponsible for maintaining the money supply. It is referred to as the M2 Money supply.
+
+Recent Events
+It is important to understand liquidity to understand our project. In the past it took lesser hikes to get deep in the markets. We found that when we did correlation testing 

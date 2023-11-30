@@ -14,7 +14,7 @@ We took factors like the IOD and the NII of each bank as predictors for a loan d
 Either the factors were negatively or positively correlated with each factor so we took the strongest negative or positive correlations and then ran a linear regression on the factors as predictors and the loan default being the outcome.
 
 There are some important factors to look at one of them is that the 
-FFF - The overnight rates bank charge with each other to keep their reserves. B
+FFR - The overnight rates bank charge with each other to keep their reserves. B
 BPS- Bassis points 1 basis point is 0.01%
 NII - Net interest income, the income banks earn from their interest after direct expenses
 Loan Default - We took the amount where the loans have not been paid for more than 90 days.

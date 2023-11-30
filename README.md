@@ -16,13 +16,19 @@ Either the factors were negatively or positively correlated with each factor so 
 There are some important factors to look at one of them is that the 
 
 FFR - The overnight rates bank charge with each other to keep their reserves. Banks also have to keep their reserves at the federal reserves account, for safety purposes.
+
 BPS- Bassis points 1 basis point is 0.01%
+
 NII - Net interest income, the income banks earn from their interest after direct expenses
+
 Loan Default - We took the amount where the loans have not been paid for more than 90 days.
+
 APR - Interest charged on a loan on an annaluized term.
 
 History
+
 The Federal Reserve is the central bank of the United States and is responsible for maintaing the cost of money. It as a dual mandate keeping unemployment and inflation stable. The Federal Reserve was created after the banking crisis in 1907 where banks collapsed because of no authority to keep trust of people. The Federal Reserve works seperately from the other governments and is reponsible for maintaining the money supply. It is referred to as the M2 Money supply.
 
 Recent Events
+
 It is important to understand liquidity to understand our project. In the past it took lesser hikes to affect the banks We found that when we did correlation testing we pre 2008 there was a strong correlation with interest payments on loans compared to post 2008. As post 2008 what happened was the federal reserve printed record amount of money, there was high liqudiity in the markets and many borrowers locked in fixed rates compared to variable rates. These factors played a role in a weak correlation post 2008 between interest on loans and interest rates hike.
